@@ -1,0 +1,8 @@
+# Ignore virtualenv files
+bin/
+etc/
+lib/
+share/
+pyvenv.cfg
+
+
