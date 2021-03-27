@@ -28,3 +28,5 @@ You can also run the full notebook in Binder. To run in Binder, click the button
 ## Our Corpus: _State of the Union speeches_
 
 Our corpus today will be the [State of the Union (1790-2018)](https://www.kaggle.com/rtatman/state-of-the-union-corpus-1989-2017) corpus released on Kaggle by Rachel Tatman. The corpus consists of the President of the United States' annual address from the designated years.
+
+I've included the data, which is [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) licensed, in this repo for ease of use.
