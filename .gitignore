@@ -6,3 +6,7 @@ share/
 pyvenv.cfg
 
 
+# Ignore local VSCode settings
+.vscode/
+
+
