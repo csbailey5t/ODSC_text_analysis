@@ -15,15 +15,11 @@ By completing this workshop, you will develop core skills in asking questions of
 
 All of the code in this workshop exists in a Jupyter Notebooks (`.ipynb` files). The workshop code can be run in multiple ways.
 
-If you already have a local Python installation and are comfortable working with virtual environments, go ahead and create a virtual environment and install the libraries listed in `requirements.txt` in your preferred way. This workshop was developed with Python 3.9 (by way of `pyenv`) with `virtualenv` and `pip` for simplicity, but you could use `conda`, `pipenv`, `poetry`, or other environment and package managers.
+If you already have a local Python installation and are comfortable working with virtual environments, you can clone this repository, create a virtual environment, and install the libraries listed in `requirements.txt` in your preferred way. This workshop was developed with Python 3.9 (by way of `pyenv`) with `virtualenv` and `pip` for simplicity, but you could use `conda`, `pipenv`, `poetry`, or other environment and package managers.
 
-If you are just getting started with Python or simply prefer to work in the browser (I recommend this for the live workshop), click on the Google Colab button below to open the workshop notebook in Google Colab, Google's hosted Jupyter Notebook environment. You'll be able to run all of the code in your browser.
+If you are just getting started with Python or simply prefer to work in the browser (I recommend this for the live workshop), click on the link to Binder below and you'll be able to run all of the code in your browser without extra setup.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/csbailey5t/ODSC_text_analysis/blob/master/exploratory-text-analysis.ipynb)
-
-You can also run the full notebook in Binder. To run in Binder, click the button below:
-
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/csbailey5t/ODSC_text_analysis/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/csbailey5t/ODSC_text_analysis/HEAD)
 
 ## Our Corpus: _State of the Union speeches_
 
