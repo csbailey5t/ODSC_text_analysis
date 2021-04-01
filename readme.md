@@ -23,6 +23,8 @@ If you don't have a Google account or prefer not to use Google products, you can
 
 During the workshop, if you'd like to code along, you can open the `exploratory-clean.ipynb` notebook and write code there, where I've left the structure and some cells of code. If you'd prefer not to write code, but want to run it as we go, you can open the `exploratory-text-analysis.ipynb` file, and run each cell as the workshop progresses. This file will also serve as a reference for those coding along.
 
+With either Colab notebook, after you click the link, make sure to hit "Copy to Drive" to attach a copy to your own Google account before running.
+
 Clean Colab notebook: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/csbailey5t/ODSC_text_analysis/blob/master/exploratory-clean.ipynb)
 
 Filled in Colab notebook: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/csbailey5t/ODSC_text_analysis/blob/master/exploratory-text-analysis.ipynb)
