@@ -13,15 +13,21 @@ By completing this workshop, you will develop core skills in asking questions of
 
 ## Running the workshop code
 
-All of the code in this workshop exists in a Jupyter Notebooks (`.ipynb` files). The workshop code can be run in multiple ways.
+All of the code in this workshop exists in Jupyter Notebooks (`.ipynb` files). The workshop code can be run in multiple ways.
 
 If you already have a local Python installation and are comfortable working with virtual environments, you can clone this repository, create a virtual environment, and install the libraries listed in `requirements.txt` in your preferred way. This workshop was developed with Python 3.9 (by way of `pyenv`) with `virtualenv` and `pip` for simplicity, but you could use `conda`, `pipenv`, `poetry`, or other environment and package managers.
 
-If you are just getting started with Python or simply prefer to work in the browser (I recommend this for the live workshop if you're at all unsure), click on the link to Binder below and you'll be able to run all of the code in your browser without extra setup.
+If you are just getting started with Python or simply prefer to work in the browser (I recommend this for the live workshop if you're at all unsure), use Colab through one of the links below and you'll be able to run all of the code in your browser without extra setup. You will need a Google account for Colab.
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/csbailey5t/ODSC_text_analysis/HEAD)
+If you don't have a Google account or prefer not to use Google products, you can click on the Binder link below. Running the code with Binder will require an extra step when we work with a corpus in the workshop.
 
 During the workshop, if you'd like to code along, you can open the `exploratory-clean.ipynb` notebook and write code there, where I've left the structure and some cells of code. If you'd prefer not to write code, but want to run it as we go, you can open the `exploratory-text-analysis.ipynb` file, and run each cell as the workshop progresses. This file will also serve as a reference for those coding along.
+
+Clean Colab notebook: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/csbailey5t/ODSC_text_analysis/blob/master/exploratory-clean.ipynb)
+
+Filled in Colab notebook: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/csbailey5t/ODSC_text_analysis/blob/master/exploratory-text-analysis.ipynb)
+
+Binder (has both notebooks): [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/csbailey5t/ODSC_text_analysis/HEAD)
 
 There are activities sprinkled throughout as ways to practice some techniques. Given time limits, we won't do activities during the workshop, but they are there as a way to practice after.
 
